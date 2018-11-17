@@ -32,4 +32,13 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:text="@string/next_level" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/level"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="154dp"
+        android:text="TESTButton" />
 </RelativeLayout>
