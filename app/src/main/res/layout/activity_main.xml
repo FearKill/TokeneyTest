@@ -34,11 +34,11 @@
         android:text="@string/next_level" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/ur mum gay"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/level"
-        android:layout_alignParentBottom="true"
-        android:layout_marginBottom="154dp"
-        android:text="TESTButton" />
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="134dp"
+        android:layout_alignLeft="@+id/next_level_button"
+        android:text="ur mum gay" />
 </RelativeLayout>
